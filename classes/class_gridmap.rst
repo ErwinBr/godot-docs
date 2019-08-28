@@ -331,3 +331,4 @@ Optionally, the item's orientation can be passed.
 
 - :ref:`Vector3<class_Vector3>` **world_to_map** **(** :ref:`Vector3<class_Vector3>` pos **)** const
 
+Return the gridmap (grid-based) coordinates corresponding to the absolute world position given as an argument.
